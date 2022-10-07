@@ -298,7 +298,7 @@
         "debugExceptionWidget.border": "#963c47",
         "debugExceptionWidget.background": "#101014",
         "debugToolBar.background": "#191919",
-        "debugToolBar.border": "#191919",
+        "debugToolBar.border": "#eda3fa05",
 
         "debugConsole.infoForeground": "#eda3fa",
         "debugConsole.errorForeground": "#f04949",
