@@ -19,14 +19,14 @@
     "contributes": {
       "themes": [
         {
-          "label": "Zaeri Dark",
+          "label": "Zæri Dark",
           "uiTheme": "vs-dark",
-          "path": "./themes/Zaeri Dark-color-theme.json"
+          "path": "./themes/Zæri Dark-color-theme.json"
         },
         {
-            "label": "Zaeri Light",
+            "label": "Zæri Light",
             "uiTheme": "vs",
-            "path": "./themes/Zaeri Light-color-theme.json"
+            "path": "./themes/Zæri Light-color-theme.json"
         }
       ]
     }
