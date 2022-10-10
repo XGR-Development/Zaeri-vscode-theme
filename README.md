@@ -17,8 +17,6 @@ There are 3 ways to do this:
 ![Zæri first screenshot](https://raw.githubusercontent.com/XGR-Development/Zaeri-vscode-theme/main/static/-first-ss.png)
 ![Zæri second screenshot](https://raw.githubusercontent.com/XGR-Development/Zaeri-vscode-theme/main/static/-second-ss.png)
 
-## Color Palette
-
 ## Want to modify something ?
 
 Feel free to modify a bit the theme if you feel so. You just need to go to:  
