@@ -1,4 +1,4 @@
-# [Zæri]()
+# [Zæri](https://marketplace.visualstudio.com/items?itemName=xgr-development.zaeri)
 ![Zæri](https://raw.githubusercontent.com/XGR-Development/Zaeri-vscode-theme/main/long-icon.png)
 <br><br> A simple Visual Studio Code theme written with love & affection.
 
@@ -14,8 +14,8 @@ There are 3 ways to do this:
     - Download the one whose author is `XGR Development`
 
 ## Screenshots
-![Zæri first screenshot](https://raw.githubusercontent.com/XGR-Development/Zaeri-vscode-theme/main/static/-first-ss.png)
-![Zæri second screenshot](https://raw.githubusercontent.com/XGR-Development/Zaeri-vscode-theme/main/static/-second-ss.png)
+![Zæri first screenshot](https://raw.githubusercontent.com/XGR-Development/Zaeri-vscode-theme/main/static/z-first-ss.png)
+![Zæri second screenshot](https://raw.githubusercontent.com/XGR-Development/Zaeri-vscode-theme/main/static/z-second-ss.png)
 
 ## Want to modify something ?
 
