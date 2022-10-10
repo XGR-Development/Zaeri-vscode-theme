@@ -4,7 +4,6 @@
     "maintainers": ["XGR Development, <xgr.dev@gmail.com"],
     "type": "vs-dark",
 
-    "semanticClass": "zaeri",
     "colors": {
         "foreground": "#eda3fa",
         "descriptionForeground": "#eda3fa",
