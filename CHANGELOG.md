@@ -1,5 +1,7 @@
 # Change Log
+`Format: DD.MM.YYYY`
 
-## [Unreleased]
+## [v0.1.0]
+`10.10.2022`
 
-- Work In Progress
+- Initial Release
