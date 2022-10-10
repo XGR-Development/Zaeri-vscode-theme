@@ -3,7 +3,7 @@
     "displayName": "Zæri",
     "description": "A simple Visual Studio Code theme written with love & affection.",
     "version": "0.1.0",
-    "icon": "/static/icon.png",
+    "icon": "/icon.png",
     "publisher": "xgr-development",
     "homepage": "https://github.com/XGR-Development/Zaeri-vscode-theme",
       "repository": {
