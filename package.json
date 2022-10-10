@@ -1,6 +1,6 @@
 {
     "name": "zaeri",
-    "displayName": "Zæri",
+    "displayName": "Zaeri",
     "description": "A simple Visual Studio Code theme written with love & affection.",
     "version": "0.1.0",
     "icon": "/icon.png",
@@ -10,23 +10,24 @@
           "url": "https://github.com/XGR-Development/Zaeri-vscode-theme",
           "type": "git"
       },
-    "engines": {
+    "engines": {  
       "vscode": "^1.71.0"
     },
     "categories": [
       "Themes"
     ],
+    "keywords": [
+      "vs-dark",
+      "dark",
+      "theme",
+      "pink"
+    ],
     "contributes": {
       "themes": [
         {
-          "label": "Zæri Dark",
+          "label": "Zæri",
           "uiTheme": "vs-dark",
-          "path": "./themes/Zæri Dark-color-theme.json"
-        },
-        {
-            "label": "Zæri Light",
-            "uiTheme": "vs",
-            "path": "./themes/Zæri Light-color-theme.json"
+          "path": "./themes/Zæri-color-theme.json"
         }
       ]
     }

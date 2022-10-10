@@ -2,9 +2,6 @@
 ![Zæri](https://raw.githubusercontent.com/XGR-Development/Zaeri-vscode-theme/main/long-icon.png)
 <br><br> A simple Visual Studio Code theme written with love & affection.
 
-Zæri Dark & Zæri Light are exactly the same for the moment and it's completly normal.
-
-
 ## Installation
 
 There are 3 ways to do this:
@@ -17,23 +14,15 @@ There are 3 ways to do this:
     - Download the one whose author is `XGR Development`
 
 ## Screenshots
-![Zæri Dark first screenshot](https://raw.githubusercontent.com/XGR-Development/Zaeri-vscode-theme/main/static/zdark-first-ss.png)
-![Zæri Dark second screenshot](https://raw.githubusercontent.com/XGR-Development/Zaeri-vscode-theme/main/static/zdark-second-ss.png)
-
-![Zæri Light first screenshot](https://raw.githubusercontent.com/XGR-Development/Zaeri-vscode-theme/main/static/zlight-first-ss.png)
-![Zæri Light second screenshot](https://raw.githubusercontent.com/XGR-Development/Zaeri-vscode-theme/main/static/zlight-second-ss.png)
-
+![Zæri first screenshot](https://raw.githubusercontent.com/XGR-Development/Zaeri-vscode-theme/main/static/-first-ss.png)
+![Zæri second screenshot](https://raw.githubusercontent.com/XGR-Development/Zaeri-vscode-theme/main/static/-second-ss.png)
 
 ## Color Palette
-### Zæri Dark
-
-### Zæri Light
-
 
 ## Want to modify something ?
 
 Feel free to modify a bit the theme if you feel so. You just need to go to:  
-`../.vscode/extensions/xgr-development-zaeri-?.?.?/themes/Zæri [Light | Dark]-color-theme`
+`../.vscode/extensions/xgr-development-zaeri-?.?.?/themes/Zæri-color-theme`
 
 Then manually search the key you want or use `CTRL + F` & manually modify it or use `CTRL + H`.
 
