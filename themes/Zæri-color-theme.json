@@ -345,10 +345,10 @@
         "terminal.ansiBrightCyan": "#7dcfff",
         "terminal.ansiBrightWhite": "#acb0d0",
 
-        "gitDecoration.modifiedResourceForeground": "#e9c44e",
-		"gitDecoration.ignoredResourceForeground": "#52576e",
-		"gitDecoration.untrackedResourceForeground": "#eaeb9cc1",
-		"gitDecoration.conflictingResourceForeground": "#ea6c6c",
+        "gitDecoration.modifiedResourceForeground": "#954fc0e0",
+		"gitDecoration.ignoredResourceForeground": "#eda3fa45",
+		"gitDecoration.untrackedResourceForeground": "#896adee0",
+		"gitDecoration.conflictingResourceForeground": "#e47a7ae0",
 
         "charts.red": "#f7768e",
         "charts.blue": "#7aa2f7",
